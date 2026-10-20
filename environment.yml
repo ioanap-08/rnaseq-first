@@ -1,0 +1,16 @@
+name: rnaseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - seaborn
+  - matplotlib
+  - scipy
+  - pandas
+  - scikit-learn
+  - biopython
+  - numpy
+  - jupyterlab
+prefix: C:\Users\ioana\apps\miniconda_\aplicatiaa\envs\rnaseq
